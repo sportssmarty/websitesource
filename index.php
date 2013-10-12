@@ -181,7 +181,6 @@ Backbone.history.start();
 }
 
 });
-//<iframe src="https://docs.google.com/presentation/embed?id=1qyjSDeVq_s6hORWGUXId6MVKAQYxUWwb23Kmn5X0oII&start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 </script>
